@@ -1,0 +1,5 @@
+resources:
+- csi-attacher-nfsplugin.yaml
+- csi-attacher-rbac.yaml
+- csi-nodeplugin-nfsplugin.yaml
+- csi-nodeplugin-rbac.yaml
